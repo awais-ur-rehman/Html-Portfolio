@@ -1,0 +1,698 @@
+.contact-container {
+  min-height: 100vh;
+}
+.contact-contact {
+  width: 100%;
+  height: 749px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(87, 20, 196, 1);
+}
+.contact-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 1263px;
+  height: 633px;
+  position: absolute;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.contact-contactsection {
+  top: 221px;
+  left: 20px;
+  width: 603px;
+  height: 362px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.contact-contact1 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  border-color: transparent;
+  justify-content: space-between;
+}
+.contact-manstandingonchats1 {
+  width: 563px;
+  height: 412px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contact-mancontact {
+  top: 0px;
+  left: 0px;
+  width: 563.0001220703125px;
+  height: 412.00006103515625px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contact-vector {
+  top: 233.1859588623047px;
+  left: 311.29278564453125px;
+  width: 218px;
+  height: 166px;
+  position: absolute;
+}
+.contact-vector01 {
+  top: 201.1971893310547px;
+  left: 313.4718017578125px;
+  width: 153px;
+  height: 70px;
+  position: absolute;
+}
+.contact-vector02 {
+  top: 271.72589111328125px;
+  left: 29.41766357421875px;
+  width: 102px;
+  height: 140px;
+  position: absolute;
+}
+.contact-vector03 {
+  top: 296.9743957519531px;
+  left: 7.62896728515625px;
+  width: 26px;
+  height: 111px;
+  position: absolute;
+}
+.contact-vector04 {
+  top: 384.4718017578125px;
+  left: 0px;
+  width: 191px;
+  height: 28px;
+  position: absolute;
+}
+.contact-vector05 {
+  top: 271.2547607421875px;
+  left: 76.946044921875px;
+  width: 29px;
+  height: 98px;
+  position: absolute;
+}
+.contact-vector06 {
+  top: 362.10601806640625px;
+  left: 81.8563232421875px;
+  width: 27px;
+  height: 31px;
+  position: absolute;
+}
+.contact-vector07 {
+  top: 67.46963500976562px;
+  left: 88.4588623046875px;
+  width: 33px;
+  height: 36px;
+  position: absolute;
+}
+.contact-vector08 {
+  top: 91.03902435302734px;
+  left: 83.85284423828125px;
+  width: 30px;
+  height: 39px;
+  position: absolute;
+}
+.contact-vector09 {
+  top: 110.28189086914062px;
+  left: 57.75799560546875px;
+  width: 79px;
+  height: 114px;
+  position: absolute;
+}
+.contact-vector10 {
+  top: 265.5px;
+  left: 104.52886962890625px;
+  width: 25px;
+  height: 118px;
+  position: absolute;
+}
+.contact-vector11 {
+  top: 59.155086517333984px;
+  left: 83.52716064453125px;
+  width: 34px;
+  height: 36px;
+  position: absolute;
+}
+.contact-vector12 {
+  top: 207.95480346679688px;
+  left: 68.12109375px;
+  width: 68px;
+  height: 73px;
+  position: absolute;
+}
+.contact-vector13 {
+  top: 376.2016296386719px;
+  left: 96.3662109375px;
+  width: 22px;
+  height: 34px;
+  position: absolute;
+}
+.contact-vector14 {
+  top: 153.2729949951172px;
+  left: 127.02032470703125px;
+  width: 19px;
+  height: 71px;
+  position: absolute;
+}
+.contact-vector15 {
+  top: 154.86190795898438px;
+  left: 56.798583984375px;
+  width: 16px;
+  height: 81px;
+  position: absolute;
+}
+.contact-vector16 {
+  top: 124.1422119140625px;
+  left: 123.9364013671875px;
+  width: 22px;
+  height: 36px;
+  position: absolute;
+}
+.contact-vector17 {
+  top: 126.7904281616211px;
+  left: 54.7132568359375px;
+  width: 23px;
+  height: 36px;
+  position: absolute;
+}
+.contact-vector18 {
+  top: 0.000030517578125px;
+  left: 241.0433349609375px;
+  width: 165px;
+  height: 400px;
+  position: absolute;
+}
+.contact-vector19 {
+  top: 139.1946258544922px;
+  left: 303.82501220703125px;
+  width: 77px;
+  height: 17px;
+  opacity: 0.10;
+  position: absolute;
+}
+.contact-vector20 {
+  top: 182.82717895507812px;
+  left: 247.8841552734375px;
+  width: 77px;
+  height: 17px;
+  opacity: 0.10;
+  position: absolute;
+}
+.contact-vector21 {
+  top: 262.7257385253906px;
+  left: 279.7037353515625px;
+  width: 77px;
+  height: 17px;
+  opacity: 0.10;
+  position: absolute;
+}
+.contact-vector22 {
+  top: 349.4241638183594px;
+  left: 268.9261474609375px;
+  width: 77px;
+  height: 17px;
+  opacity: 0.10;
+  position: absolute;
+}
+.contact-vector23 {
+  top: 82px;
+  right: 0px;
+  width: 221px;
+  height: 80px;
+  position: absolute;
+}
+.contact-vector24 {
+  top: 92px;
+  right: 39px;
+  width: 152px;
+  height: 14px;
+  position: absolute;
+}
+.contact-vector25 {
+  top: 115px;
+  right: 36px;
+  width: 152px;
+  height: 14px;
+  position: absolute;
+}
+.contact-vector26 {
+  top: 315.7160339355469px;
+  left: 289.970703125px;
+  width: 22px;
+  height: 42px;
+  position: absolute;
+}
+.contact-vector27 {
+  top: 332.4292907714844px;
+  left: 274.6612548828125px;
+  width: 37px;
+  height: 25px;
+  position: absolute;
+}
+.contact-window-notification {
+  top: 233px;
+  left: 312px;
+  width: 119px;
+  height: 40.46521759033203px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contact-vector28 {
+  top: 0px;
+  left: 0px;
+  width: 119px;
+  height: 40px;
+  position: absolute;
+}
+.contact-vector29 {
+  top: 4.526017189025879px;
+  left: 21.569332122802734px;
+  width: 85px;
+  height: 7px;
+  position: absolute;
+}
+.contact-vector30 {
+  top: 16.092506408691406px;
+  left: 21.569332122802734px;
+  width: 85px;
+  height: 7px;
+  position: absolute;
+}
+.contact-window-notification1 {
+  top: 149px;
+  left: 293px;
+  width: 120px;
+  height: 40.46521759033203px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contact-vector31 {
+  top: -3px;
+  left: -106px;
+  width: 120px;
+  height: 40px;
+  position: absolute;
+}
+.contact-vector32 {
+  top: 3px;
+  left: -94px;
+  width: 86px;
+  height: 7px;
+  position: absolute;
+}
+.contact-vector33 {
+  top: 14px;
+  left: -94px;
+  width: 86px;
+  height: 7px;
+  position: absolute;
+}
+.contact-form {
+  top: 239px;
+  left: 856px;
+  width: 374px;
+  height: 277px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.contact-inputbox {
+  color: rgba(130, 130, 130, 1);
+  width: 306px;
+  height: 38px;
+  display: flex;
+  padding: 12px 18px;
+  position: relative;
+  font-size: 14px;
+  align-self: stretch;
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.14000000059604645) ;
+  text-align: left;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: Poppins;
+  font-weight: 400;
+  border-color: rgba(0, 0, 0, 0.11999999731779099);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  margin-bottom: 43px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.contact-inputbox1 {
+  color: rgba(130, 130, 130, 1);
+  width: 309px;
+  height: 194px;
+  display: flex;
+  padding: 11px 19px;
+  position: relative;
+  font-size: 14px;
+  align-self: stretch;
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.14000000059604645) ;
+  text-align: left;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: Poppins;
+  font-weight: 400;
+  padding-top: 13px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  padding-bottom: 147px;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.contact-text {
+  top: 103px;
+  left: 452px;
+  color: rgba(217, 217, 217, 1);
+  width: 357px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contact-text09 {
+  top: 167px;
+  color: rgba(217, 217, 217, 1);
+  right: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contact-sendbutton {
+  top: 545px;
+  left: 975px;
+  width: 155px;
+  height: 55px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(87, 20, 197, 1);
+}
+.contact-text11 {
+  top: 11px;
+  left: 12px;
+  color: rgba(17, 17, 17, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-navs {
+  top: 0px;
+  left: 59px;
+  width: 1130px;
+  height: 84px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(87, 20, 196, 1);
+}
+.contact-text13 {
+  top: 35px;
+  left: 957px;
+  color: rgba(241, 180, 23, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contact-logoblackremovebgpreview1 {
+  top: 15px;
+  left: 56px;
+  width: 80px;
+  height: 54px;
+  position: absolute;
+  border-color: transparent;
+}
+.contact-text15 {
+  top: 35px;
+  left: 523px;
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contact-frame2 {
+  top: 35px;
+  left: 633px;
+  width: 66px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.contact-text17 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contact-text19 {
+  top: 35px;
+  left: 742px;
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contact-group2 {
+  top: 687px;
+  left: 48px;
+  width: 1098px;
+  height: 36px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contact-text21 {
+  left: 24px;
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text23 {
+  left: 516px;
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-ictwotonealternateemail {
+  top: 6px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.contact-icoutlinephone {
+  top: 6px;
+  left: 492px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.contact-frame21 {
+  top: 0px;
+  left: 835px;
+  width: 263px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: space-between;
+}
+.contact-githubsvgrepocom1 {
+  width: 30px;
+  height: 30px;
+  position: relative;
+}
+.contact-text25 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-text26 {
+  color: rgba(30, 30, 30, 1);
+}
+.contact-text27 {
+  color: rgba(255, 255, 255, 1);
+}
+.contact-text28 {
+  color: rgba(255, 249, 249, 1);
+}
